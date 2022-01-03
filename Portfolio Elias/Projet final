@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="Projet final.CSS">
+        
+    </head>
+
+    <header>
+        <img id="floper" src="Floper.png" alt="">
+
+        <nav>
+            <a href="#">About</a>
+            <a href="#">Service</a>
+            <a href="#">Works</a>
+            <a href="#">Contacts</a>
+        </nav>
+
+        <H1>Services</H1>
+
+        <hr id="hori">
+
+        <section id="listo">
+
+            <div>
+                <h2>Design</h2>
+
+                <p>
+
+                    It was a Canadian, the Honourable MacAlpine, who undertook the management of the affair. 
+                    He easily collected ninety-six players, including several professed gamblers, not the least among those ready for gain.
+                    I, following the general example, staked my dollar, and fate allotted me the ninety-fourth quarter; 
+                    it was a bad number, and one which left me no chance of profit. 
+
+                </p>
+
+                <ul>
+                    <li>  Web Design</li>
+                    <li>  Interface</li>
+                    <li>  Design</li>
+                    
+                </ul>
+            </div>
+
+            <div>
+                <h2>Development</h2>
+
+                <p>
+                    It was a Canadian, the Honourable MacAlpine, who undertook the management of the affair. 
+                    He easily collected ninety-six players, including several professed gamblers, not the least among those ready for gain.
+                    I, following the general example, staked my dollar, and fate allotted me the ninety-fourth quarter; 
+                    it was a bad number, and one which left me no chance of profit. 
+
+                </p>
+
+                <ul>
+
+                    <li>  Web Site</li>
+                    <li>  E-commerce shop</li>
+                    <li>  Mobil Application</li>
+                    
+                </ul>
+            </div>
+
+            <div>
+                <h2>Marketing</h2>
+
+                <p>
+
+                    It was a Canadian, the Honourable MacAlpine, who undertook the management of the affair. 
+                    He easily collected ninety-six players, including several professed gamblers, not the least among those ready for gain.
+                    I, following the general example, staked my dollar, and fate allotted me the ninety-fourth quarter; 
+                    it was a bad number, and one which left me no chance of profit. 
+
+                </p>
+
+                <ul>
+                    
+                    <li>  Seo Optimize</li>
+                    <li>  Advertising company</li>
+                    
+                </ul>
+            </div>
+        </section>
+        
+    </header>
+
+    <body>
+        
+
+        <h3>Works</h3>
+
+        <section id="works1">
+
+            <img  src="unsplash.jpg" alt="">
+            <img  src="redstrip.jpg" alt="">
+
+        </section>
+
+        <section id="works2">
+
+            <img  src="softs.jpg" alt="">
+            <img  src="cookie.jpg" alt="">
+
+        </section>
+
+        <div id="container1">
+            
+            <div id="eee">
+                <h1>Clients say</h1>
+            </div>
+            
+            <div id="fff">
+                <hr>
+            </div>
+
+            <div id="Amanda">
+                
+                <div id="FF">
+                    <h4>Amanda Lopez</h4> 
+                    <p>Google, Manager</p>
+                </div>
+                
+                <p class="description">We are a creative team of designers. we make Websites,  interfaces and identity. We <br> beleive that beauty is hidden in samll things.</p>
+                
+            </div>
+            
+
+        </div>
+
+        <footer>
+            <h3>Contact Us</h3>
+
+            <div class="D1">
+                <p>Give us a call or send us an email at<br><a href="info@evatheme.com">info@evatheme.com</a></p>
+            </div>
+
+            <div class="D2">
+
+                <p>USA, California, Montero Street 33/2<br>+1 259 989 559 88</p>
+
+            </div>
+
+            <nav id="rx">
+
+                <img id="pm" src="facebook.jfif" alt="">
+                <a id="linkrx" href="#">Facebook</a>
+
+                <img id="pm" src="twitter.jfif" alt="">
+                <a id="linkrx" href="#">Twitter</a>
+
+                <img id="pm" src="PINT.jfif" alt="">
+                <a id="linkrx" href="#">Pinterest</a>
+
+            </nav>
+
+            <div class="D3">
+                <p>© 2017 Floper Powered by Evatheme</p>
+            </div>
+
+        </footer>
+        
+
+    </body>
+
+</html>

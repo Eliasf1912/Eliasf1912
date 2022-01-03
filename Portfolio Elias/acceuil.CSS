@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,600&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+}
+
+body{ 
+    background-color: #F1AB6E;
+}
+
+li, a{ 
+    font-weight: 500;
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+}
+
+header{
+   background-color: #552903;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 5px;
+   font-style: 'semi-bold';
+
+}
+
+span{
+    color: #F1AB6E;
+}
+
+.logo h1 a{ 
+    font-size: 40px;
+    margin-left: 20px;
+}
+
+.navbar li{ 
+    display: inline-block;
+    padding: 50px;
+}
+
+.navbar li{ 
+    transition: all 0.3s ease 0s;
+}
+
+.navbar li a:hover{
+    color: #F1AB6E;
+}
+
+.navbar{ 
+    list-style: none;
+}
+
+section{ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: 40px;
+    text-align: center;
+    
+}
+
+.Photo{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    box-shadow: #552903 30px 20px 20px;
+}
+
+.Text{ 
+    color: #fff;
+    font-size: 30px;
+    padding-left: 80px;
+    text-shadow: #552903 10px 10px 10px;
+}

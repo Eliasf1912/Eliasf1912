@@ -6,6 +6,6 @@ If you liked what you have seen don't hesitate to share or let a little message 
 
 <h1> Portfolio </h1>
 
-<p> Here is my portfolio above you can actually see the different code pages and images that I have used for it, I only have used HTML/CSS for the Website and you can also have some insight of it. 
+<p> You can actually see a folder who contain the different code pages and images that I have used for it, I only have used HTML/CSS for the Website and you can also have some insight inside of the folder. 
 I hope you enjoy it. I wish you a good day!! </p>
 

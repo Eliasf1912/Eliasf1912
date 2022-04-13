@@ -4,8 +4,6 @@
 On this page, You will be able to find different school project realize during my school course or even personal project.
 If you liked what you have seen don't hesitate to share or let a little message ! Have a nice day!</p>
 
-<h2> Presentation </h2>
-
 <p> Here is all the langages that i know at the momment don't hesitate to come many time as you want !</p>
 
 <h1>- HTML</h1>

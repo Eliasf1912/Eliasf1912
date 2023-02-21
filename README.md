@@ -9,4 +9,11 @@ If you liked what you have seen don't hesitate to share or let a little message 
 <h1>- HTML</h1>
 <h1>- CSS</h1>
 <h1>- Javascript</h1>
+<h1>- React</h1>
+
+<p> Here is all the Framework that i know </p>
+
+<h1>- Three.js</h1>
+<h1>- Phaser.js</h1>
+<h1>- Gsap</h1>
 

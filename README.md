@@ -2,6 +2,7 @@
 ## 🚀 About Me
 
 Bonjour !! je m'appelle Elias Duvernois, j'ai 21 ans et je suis actuellement en 2éme anneé d'un Bachelor Développeur Web à l'école Multimédia à Paris.
+Vous pourrez retrouver sur mon github des projets scolaire comme personnel, si jamais vous avez des questions ou des remarques à faire vis à vis de mes projets n'hésiter pas ! 
 
 Je suis actuellement à la recherche d'une alternance pour la rentrée 2023 en tant que développeur Web Front-end junior. n'hésitez pas à visiter mes réseaux pour plus d'informations.
 
